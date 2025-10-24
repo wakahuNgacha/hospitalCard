@@ -58,7 +58,7 @@
 <script setup> </script>
 <style scoped>
 .holder {
-    height: 98vh;
+    height: 600px;
     width: 98vw;
     border-radius: 20px;
     border: 1px solid rgb(214, 214, 214);
@@ -68,7 +68,7 @@
 }
 .left {
     width: 50%;
-    height: 100vh;
+    height: 98%;
     float: left;
     display: flex;
     justify-content: center;
@@ -80,7 +80,7 @@
     justify-content: center;
     align-items: center;
     width: 50%;
-    height: 98vh;
+    height: 98%;
     float: right;
     /* background-color: lightpink; */
 }
